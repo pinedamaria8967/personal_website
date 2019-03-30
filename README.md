@@ -1,3 +1,5 @@
 # portfolio
 
-https://ngoduy1001.github.io/portfolio/
+duyngo.me
+
+This is my portfolio website
