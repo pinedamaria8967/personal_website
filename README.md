@@ -1,8 +1,3 @@
 # portfolio
 
-what hte fuck  certificate
-
-This is my portfolio website
-
-why is it not secured
-nvm i got why
+Domain change only work with main github page
