@@ -1,6 +1,6 @@
 # Portfolio
 
-My Portfolio website.
+A simple Portfolio website.
 
 Languages & Framework used: 
 
